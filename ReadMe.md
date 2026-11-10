@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Matee Ur Rehman, a Computer Science student at COMSATS University Islamabad, passionate about Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building practical applications and exploring innovative AI solutions.
 - 🔭 I'm currently working on AI/ML projects, Generative AI applications, and my Final Year Project.<br>- 🤝 I'm looking to collaborate on AI/ML, Generative AI, and Python-based projects.<br>- 💡 I'm looking for help with research ideas, model improvement, and building practical AI solutions.<br>- 🌱 I'm currently learning Machine Learning, Generative AI, and AI application development.<br>- 💬 Ask me about Python, AI/ML, Generative AI, and software development.<br>- ⚡ Fun fact: I enjoy turning ideas into practical projects and learning new technologies along the way.
 
 
