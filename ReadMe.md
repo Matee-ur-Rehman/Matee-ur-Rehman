@@ -49,17 +49,64 @@ Hi, I'm Matee Ur Rehman, a Computer Science student at COMSATS University Islama
 
 ## 🚀 Featured Projects
 
-### ♟️ [AI Chess Engine](https://github.com/Matee-ur-Rehman/AI-Chess-Engine)
-An artificial intelligence-based chess engine focused on intelligent move generation and chess gameplay.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 [Sleep Mamba – Research Reproduction](https://github.com/Matee-ur-Rehman/Sleep-Mamba)
-Implementation and reproduction of the Sleep Mamba research paper, exploring deep learning techniques for sleep analysis.
+### ♟️ ChessWala — AI Chess Engine
 
-### 🏫 [Smart Institutional Operations and Information System](https://github.com/Matee-ur-Rehman/Smart-Institutional-Operations-and-Information-System)
-A web and mobile-based institutional management system developed as a Final Year Project. *(In Progress)*
+An AlphaZero-inspired chess engine developed in Python, combining deep learning with Monte Carlo Tree Search (MCTS) for intelligent chess decision-making.
 
-### ⚛️ [Quantum Learning Workspace](https://github.com/Matee-ur-Rehman/QuantumLearningWorkspace)
-A project focused on exploring quantum computing concepts and building an interactive learning environment.
+Features an interactive desktop GUI, AI gameplay, and a move-by-move game analyzer with move classifications and accuracy scores.
+
+**Tech:** Python · PyTorch · MCTS · PyQt6
+
+[🔗 View Repository](https://github.com/Matee-ur-Rehman/AI-Chess-Engine)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 SleepMamba — Research Reproduction
+
+An independent reproduction of the SleepMamba research paper, exploring deep learning and selective state-space models for automated sleep-stage classification.
+
+Includes EEG/EOG signal preprocessing, model training, evaluation, and experiments on the Sleep-EDF-78 dataset.
+
+**Tech:** Python · PyTorch · Deep Learning · Mamba
+
+[🔗 View Repository](https://github.com/Matee-ur-Rehman/Sleep-Mamba)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 StudyMind AI — Learning Workspace
+
+An AI-powered learning workspace designed to turn PDFs, YouTube lectures, articles, and notes into an interactive personal learning assistant.
+
+Its planned capabilities include RAG-based conversations, knowledge graphs, AI-generated study materials, and personalized learning support.
+
+**Tech:** Python · FastAPI · React · RAG · AI/ML
+
+[🔗 View Repository](https://github.com/Matee-ur-Rehman/QuantumLearningWorkspace)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 Smart Institutional Operations and Information System
+
+A collaborative Final Year Project for Trends High School, Hassan Abdal, designed to streamline institutional operations through integrated web and mobile applications.
+
+The system covers academic and administrative workflows for administrators, teachers, students, and parents.
+
+**Tech:** Flutter · FastAPI · PostgreSQL
+
+[🔗 View Repository](https://github.com/Matee-ur-Rehman/Smart-Institutional-Operations-and-Information-System)
+
+</td>
+</tr>
+</table>
 
 
 # 📊 GitHub Stats:
