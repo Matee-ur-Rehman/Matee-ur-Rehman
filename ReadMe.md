@@ -47,62 +47,77 @@ Hi, I'm Matee Ur Rehman, a Computer Science student at COMSATS University Islama
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
 ## 🚀 Featured Projects
+
+*Selected projects showcasing my work in Artificial Intelligence, Machine Learning, Research, and Software Development.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ♟️ ChessWala — AI Chess Engine
+<h3>♟️ ChessWala</h3>
+<strong>AI-Powered Chess Engine</strong>
 
-An AlphaZero-inspired chess engine developed in Python, combining deep learning with Monte Carlo Tree Search (MCTS) for intelligent chess decision-making.
+An intelligent chess engine inspired by AlphaZero, combining neural networks and Monte Carlo Tree Search (MCTS) to evaluate positions and make strategic moves.
 
-Features an interactive desktop GUI, AI gameplay, and a move-by-move game analyzer with move classifications and accuracy scores.
+Includes an interactive desktop interface, AI gameplay, and detailed game analysis.
 
-**Tech:** Python · PyTorch · MCTS · PyQt6
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
 
-[🔗 View Repository](https://github.com/Matee-ur-Rehman/AI-Chess-Engine)
+**[Explore Repository →](https://github.com/Matee-ur-Rehman/AI-Chess-Engine)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 SleepMamba — Research Reproduction
+<h3>🧠 Sleep Mamba</h3>
+<strong>Deep Learning Research Reproduction</strong>
 
-An independent reproduction of the SleepMamba research paper, exploring deep learning and selective state-space models for automated sleep-stage classification.
+Reproduction and experimentation based on the SleepMamba research paper, investigating state-space models for automated sleep-stage classification.
 
-Includes EEG/EOG signal preprocessing, model training, evaluation, and experiments on the Sleep-EDF-78 dataset.
+Explores physiological signal processing, model training, and performance evaluation using sleep datasets.
 
-**Tech:** Python · PyTorch · Deep Learning · Mamba
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-2E8B57?style=flat-square" />
 
-[🔗 View Repository](https://github.com/Matee-ur-Rehman/Sleep-Mamba)
+**[Explore Repository →](https://github.com/Matee-ur-Rehman/Sleep-Mamba)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 StudyMind AI — Learning Workspace
+<h3>🎓 StudyMind AI</h3>
+<strong>AI-Powered Learning Workspace</strong>
 
-An AI-powered learning workspace designed to turn PDFs, YouTube lectures, articles, and notes into an interactive personal learning assistant.
+An intelligent learning workspace designed to help students interact with and learn from their study materials, including documents, online resources, and educational content.
 
-Its planned capabilities include RAG-based conversations, knowledge graphs, AI-generated study materials, and personalized learning support.
+Explores AI-assisted learning workflows and tools for a more organized and interactive study experience.
 
-**Tech:** Python · FastAPI · React · RAG · AI/ML
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-4169E1?style=flat-square" />
 
-[🔗 View Repository](https://github.com/Matee-ur-Rehman/QuantumLearningWorkspace)
+**[Explore Repository →](https://github.com/Matee-ur-Rehman/QuantumLearningWorkspace)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 Smart Institutional Operations and Information System
+<h3>🏫 Smart Institutional Operations and Information System</h3>
+<strong>Final Year Project · In Progress</strong>
 
-A collaborative Final Year Project for Trends High School, Hassan Abdal, designed to streamline institutional operations through integrated web and mobile applications.
+A comprehensive institutional management solution being developed for Trends High School, Hassan Abdal.
 
-The system covers academic and administrative workflows for administrators, teachers, students, and parents.
+Designed to streamline academic and administrative activities through integrated web and mobile applications for administrators, teachers, students, and parents.
 
-**Tech:** Flutter · FastAPI · PostgreSQL
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-[🔗 View Repository](https://github.com/Matee-ur-Rehman/Smart-Institutional-Operations-and-Information-System)
+**[Explore Repository →](https://github.com/Matee-ur-Rehman/Smart-Institutional-Operations-and-Information-System)**
 
 </td>
 </tr>
