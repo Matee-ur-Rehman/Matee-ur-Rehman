@@ -46,6 +46,22 @@ Hi, I'm Matee Ur Rehman, a Computer Science student at COMSATS University Islama
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🚀 Featured Projects
+
+### ♟️ [AI Chess Engine](https://github.com/Matee-ur-Rehman/AI-Chess-Engine)
+An artificial intelligence-based chess engine focused on intelligent move generation and chess gameplay.
+
+### 🧠 [Sleep Mamba – Research Reproduction](https://github.com/Matee-ur-Rehman/Sleep-Mamba)
+Implementation and reproduction of the Sleep Mamba research paper, exploring deep learning techniques for sleep analysis.
+
+### 🏫 [Smart Institutional Operations and Information System](https://github.com/Matee-ur-Rehman/Smart-Institutional-Operations-and-Information-System)
+A web and mobile-based institutional management system developed as a Final Year Project. *(In Progress)*
+
+### ⚛️ [Quantum Learning Workspace](https://github.com/Matee-ur-Rehman/QuantumLearningWorkspace)
+A project focused on exploring quantum computing concepts and building an interactive learning environment.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Matee-ur-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Matee-ur-Rehman&theme=dark&hide_border=false)<br/>
