@@ -5,7 +5,7 @@ Hi, I'm Matee Ur Rehman, a Computer Science student at COMSATS University Islama
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matee-ur-rehman-5a8a66357/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matee-ur-rehman.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://matee-ur-rehman.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateeurrehman512@gmail.com)
 
 # 💻 Tech Stack:
